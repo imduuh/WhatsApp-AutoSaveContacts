@@ -1,2 +1,3 @@
 # WhatsApp-AutoSaveContacts
- BOT para fazer o salvamento de contatos de forma automatica.
+
+**WhatsApp-AutoSaveContacts** é um BOT de WhatsApp feito usando a biblioteca **[OPEN-WA](https://github.com/open-wa/wa-automate-nodejs)**, onde fiz a integração da API Google Contacts com o BOT. Dessa forma, sempre que o WhatsApp recebe alguma mensagem de um contato que não esteja salvo, o BOT irá auxiliar o usuário para que seu contato seja salvo. O BOT foi desenvolvido com intuito privado. O projeto foi descontinuado.
